@@ -1,0 +1,22 @@
+Sample data for AbsenteeApp
+
+Student ID: SID10004000
+-Entry should start with "SID"
+-Entry should be 11 characters in total
+
+Online attendance: Please tick or untick the checkbox
+-A tick signifies that the student has attended some or all lessons online
+-Leaving the box blanks means the student has not attended any online lessons
+-Ticking box will allow you to input how many lessons you have attended in the next field
+
+Number of lessons attended: 8
+-This field can only be entered in if the Online Attendence checkbox is ticked
+-Entry should be between 1 and 8 (inclusive of both)
+-This is because students may have only missed a few lessons due to physical absence
+
+Date of absence: 13/04/2024
+-Date should be within the last week 
+-If the absence was longer than a week ago you may need to email the school
+
+
+

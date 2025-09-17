@@ -1,0 +1,3 @@
+Presence method works now
+You can test all of them together now. Dont cascade the ifs
+Do them all at once if you can
